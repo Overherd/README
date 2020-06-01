@@ -8,9 +8,9 @@
 
 ## What is Overherd?
 
-Overherd is a mobile application that allows its users to anonymously post text with a desired "loudness". 
+Overherd is an anonymous social media app where user generated content is visible depending on the geographic area of the viewer.
 
-**Loudness** determines the geographic distance a post is visible. For example, a post with a loudness of 1 mile will allow all users within a mile of the post at the time of posting to see the post.
+The geographic area can be a fixed shape or hand drawn by the user.
 
 ## App Design
 
