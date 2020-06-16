@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Overherd/README">
+    <img src="images/app_icon.png?raw=true" width="128"/>
+  </a>
+</p>
+
 # Overherd
 
 [![](https://img.shields.io/static/v1?label=iOS&message=13&color=ffac45)](README.md)
@@ -5,6 +11,8 @@
 [![](https://img.shields.io/static/v1?label=Node.js&message=13.x&color=76ae63)](README.md)
 [![](https://img.shields.io/static/v1?label=Python&message=3.7.x&color=3573a5)](README.md)
 [![](https://img.shields.io/static/v1?label=License&message=MIT&color=lightgrey)](LICENSE.md)
+
+> Anonymous social media platform with geographic capabilities.
 
 ## What is Overherd?
 
@@ -14,7 +22,12 @@ The geographic area can be a fixed shape or hand drawn by the user.
 
 ## App Design
 
-**Insert Pictures**
+![iOS Light](images/banner_2.png) 
+![iOS Dark](images/banner_1.png) 
+![Android Light](images/banner_3.png)
+
+## App Demo
+Coming soon
 
 ## Features
 
