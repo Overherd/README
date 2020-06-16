@@ -22,8 +22,11 @@ The geographic area can be a fixed shape or hand drawn by the user.
 
 ## App Design
 
+## iOS Design
 ![iOS Light](images/banner_2.png) 
 ![iOS Dark](images/banner_1.png) 
+
+## Android Design
 ![Android Light](images/banner_3.png)
 
 ## App Demo
