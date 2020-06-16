@@ -53,8 +53,7 @@ Overherd is split into 5 repositories: iOS app, Android app, Node.js backend, we
 
 | Project                                                              | Visibility | Description |
 | -------------------------------------------------------------------- | ---------- | ----------- |
-| [Overherd iOS App](https://github.com/Overherd/Overherd-ios)         | Private    |             |
-| [Overherd Android App](https://github.com/Overherd/Overherd-android) | Private    |             |
-| [Overherd Backend](https://github.com/Overherd/Overherd-backend)     | Private    |             |
-| [Overherd Frontend](https://github.com/Overherd/Overherd-frontend)   | Private    |             |
-| [Overherd Dev Tool](https://github.com/Overherd/Overherd-devtool)    | Private    |             |
+| [Overherd iOS App](https://github.com/Overherd/Overherd-ios)         | Public     |             |
+| [Overherd Android App](https://github.com/Overherd/Overherd-android) | Public     |             |
+| [Overherd Backend](https://github.com/Overherd/Overherd-backend)     | Public     |             |
+| [Overherd Dev Tool](https://github.com/Overherd/Overherd-devtool)    | Public     |             |
