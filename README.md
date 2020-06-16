@@ -20,8 +20,6 @@ Overherd is an anonymous social media app where user generated content is visibl
 
 The geographic area can be a fixed shape or hand drawn by the user.
 
-## App Design
-
 ## iOS Design
 ![iOS Light](images/banner_2.png) 
 ![iOS Dark](images/banner_1.png) 
