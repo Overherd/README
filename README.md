@@ -10,7 +10,7 @@
 [![](https://img.shields.io/static/v1?label=Android&message=8.0&color=b07219)](README.md)
 [![](https://img.shields.io/static/v1?label=Node.js&message=13.x&color=76ae63)](README.md)
 [![](https://img.shields.io/static/v1?label=Python&message=3.7.x&color=3573a5)](README.md)
-[![](https://img.shields.io/static/v1?label=License&message=MIT&color=lightgrey)](LICENSE.md)
+[![](https://img.shields.io/static/v1?label=License&message=AGPL%203.0&color=lightgrey)](LICENSE.md)
 
 > Anonymous social media platform with geographic capabilities.
 
