@@ -27,7 +27,8 @@ The geographic area can be a fixed shape or hand drawn by the user.
 ![Android Light](images/banner_3.png)
 
 ## App Demo
-Coming soon
+![Demo 0](demos/demo0.gif) 
+![Demo 1](demos/demo1.gif) 
 
 ## Features
 
